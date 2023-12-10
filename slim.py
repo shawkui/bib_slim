@@ -311,7 +311,7 @@ def process_one_entry(entry, fields_to_keep, abbrev_dict, do_abbrev, verbose, au
 
 # check input arguments, if empty, use default
 if len(sys.argv) == 1:
-    input_file = 'raw_bib.txt'
+    input_file = 'raw_bib.bib'
     output_file = 'output.bib'
 elif len(sys.argv) == 2:
     input_file = sys.argv[1]
