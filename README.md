@@ -50,3 +50,7 @@
            year = {2020}
            }
            ```
+
+       
+* Other recommend resources
+    * Rebiber: A tool for normalizing bibtex with official info: https://github.com/yuchenlin/rebiber
