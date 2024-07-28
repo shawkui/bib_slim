@@ -1,5 +1,5 @@
 ## Bib Slim
-
+[Online version](https://shawkui.github.io/tools/bib_slimmer.html)
 * Purpose
 
     The slim.py script is a Python script that takes a bib file as input and outputs a slimmed version of the file. It has the following functions:
