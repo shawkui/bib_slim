@@ -31,7 +31,7 @@ raw_abbrev = {
     'International Conference on Image Processing': 'ICIP',
     'International Conference on Multimedia and Expo': 'ICME',
     'International Conference on Parallel and Distributed Systems': 'ICPADS',
-    'international joint conference on neural networks' : 'IJCNN',    
+    'International Joint Conference on Neural Networks' : 'IJCNN',    
     'International Symposium on Computer Architecture': 'ISCA',
     'International symposium on Information theory': 'ISIT',
     'IEEE Conference on Computer Communications': 'INFOCOM',
